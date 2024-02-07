@@ -16,7 +16,7 @@ export interface CustomFilterProps {
     title : string;
 }
 
-export interface CarCardProps {
+export interface CarProps {
     // car : string;
     city_mpg : number;
     class : string;
